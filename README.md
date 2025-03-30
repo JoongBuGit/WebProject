@@ -34,3 +34,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+웹프로그래밍 수업에서 홈페이지를 만드는 과제용 프로젝트이다
+내가 포트폴리오 사이트를 만드는 홈페이지를 수정해서 만든 프로젝트
+
+
+
